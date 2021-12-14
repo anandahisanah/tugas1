@@ -1,0 +1,29 @@
+body {
+    font-family: "Comic Sans MS", "Comic Sans", "cursive";
+    margin: 0;
+    background-color: #F4EEA9;
+}
+header {
+    padding: 20px;
+    background-color: #064635;
+    color: #F4EEA9;
+}
+.btn:hover, .btn-active {
+    background-color: #F0BB62;
+    color: #064635;
+}
+a:hover, a:link {
+    text-decoration: none;
+}
+.text-yellow {
+    color: #F4EEA9;
+}
+.bg-green {
+    background-color: #064635;
+}
+.btn-yellow {
+    background-color: #F0BB62;
+}
+.no-pointer {
+    pointer-events: none;
+}
